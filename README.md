@@ -67,7 +67,7 @@ Installation
 -------
 This package depends on `sympy` (or `sage` symbolic variables e.g.:`i = var('i')`)
 ```shell script
-pip install general_cartesian_product sympy
+pip install generalcartesianproduct sympy
 ```
 
 
