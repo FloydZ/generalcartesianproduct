@@ -13,7 +13,7 @@ setuptools.setup(
     url="https://github.com/FloydZ/generalcartesianproduct",
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GPL2 License",
+        "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
         "Operating System :: OS Independent",
     ],
 )
