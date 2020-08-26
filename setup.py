@@ -1,7 +1,7 @@
 import setuptools
 setuptools.setup(
     name='GeneralCartesianProduct',
-    version='0.1.0',
+    version='0.1.1',
     author='Floyd Z',
     author_email='floyd.zweydinger+github@rub.de',
     packages=['generalcartesianproduct', 'generalcartesianproduct.tests'],
