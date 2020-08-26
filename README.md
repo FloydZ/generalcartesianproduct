@@ -115,6 +115,4 @@ TODO
 ----
 - [ ] better logging
 - [ ] add exceptions
-- [ ] alle internen funktionen für sympy anpassen
-- [ ] die 'element' access werte wie 'start', 'end' via kargs anpassbar machen
-- [ ]
+- [ ] make `start`, `end` accesable via `kargs`
